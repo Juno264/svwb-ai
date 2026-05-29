@@ -1,0 +1,16 @@
+{
+  "class": "Witch",
+  "format": "Rotation",
+  "name": "Spell Witch - Rotation",
+  "description": "Basic Spell Witch deck for testing",
+  "cards": [
+    {"card_id": "air_jinn", "count": 3},
+    {"card_id": "veil_witch", "count": 3},
+    {"card_id": "high_sorcerer", "count": 2},
+    {"card_id": "flame", "count": 3},
+    {"card_id": "frostbolt", "count": 3},
+    {"card_id": "mass_spell", "count": 1},
+    {"card_id": "spell_burst", "count": 2},
+    {"card_id": "king_elephant", "count": 1}
+  ]
+}
